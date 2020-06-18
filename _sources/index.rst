@@ -36,12 +36,12 @@ Table of Contents
     :maxdepth: 3
 
     Introduction/toctree.rst
-    Happiness/toctree.rst
-    Solver/toctree.rst
-    PythonReview/toctree.rst
-    MovieData/toctree.rst
-    WorldFacts/toctree.rst
-    DataEthics/toctree.rst
-    UNGeneralDebates/toctree.rst
-    BikeRental/toctree.rst
-    Instacart/toctree.rst
+    World Happiness Rankings/toctree.rst
+    Using Solver/toctree.rst
+    Setting up Jupyter and a Python Review/toctree.rst
+    Learning Pandas with Movie Data/toctree.rst
+    Exploratory Data Analysis/toctree.rst
+    Ethical and Legal Considerations in Using Data/toctree.rst
+    Qualitative Analytics/toctree.rst
+    Predictive Analytics Overview/toctree.rst
+    Recommending Groceries/toctree.rst
