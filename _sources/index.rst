@@ -36,12 +36,12 @@ Table of Contents
     :maxdepth: 3
 
     Introduction/toctree.rst
-    Descriptive Statistics, Data Types & Basic Spreadsheet Operations/toctree.rst
-    Using Solver/toctree.rst
-    Setting up Jupyter and a Python Review/toctree.rst
-    Learning Pandas with Movie Data/toctree.rst
-    Exploratory Data Analysis/toctree.rst
-    Ethical and Legal Considerations in Using Data/toctree.rst
-    Qualitative Analytics/toctree.rst
-    Predictive Analytics Overview/toctree.rst
-    Recommending Groceries/toctree.rst
+    Descriptive_Statistics/toctree.rst
+    Using_Solver/toctree.rst
+    Setting_up_Jupyter/toctree.rst
+    Learning_Pandas/toctree.rst
+    Exploratory_DataAnalysis/toctree.rst
+    Ethical_and_Legal/toctree.rst
+    Qualitative_Analytics/toctree.rst
+    Predictive_Analytics/toctree.rst
+    Recommending_Groceries/toctree.rst
