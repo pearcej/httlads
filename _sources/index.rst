@@ -36,7 +36,7 @@ Table of Contents
     :maxdepth: 3
 
     Introduction/toctree.rst
-    World Happiness Rankings/toctree.rst
+    Descriptive Statistics, Data Types & Basic Spreadsheet Operations/toctree.rst
     Using Solver/toctree.rst
     Setting up Jupyter and a Python Review/toctree.rst
     Learning Pandas with Movie Data/toctree.rst

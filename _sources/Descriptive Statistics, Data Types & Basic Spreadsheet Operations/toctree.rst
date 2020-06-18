@@ -4,8 +4,8 @@
    http://creativecommons.org/licenses/by-sa/4.0/.
 
 
-World Happiness Rankings
-========================
+Descriptive Statistics, Data Types & Basic Spreadsheet Operations
+=================================================================
 
 .. toctree::
    :caption: World Happiness
