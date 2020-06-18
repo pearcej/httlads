@@ -6,7 +6,7 @@
 
 .. _h45294365433556a7a5a2403ac5f8:
 
-Introduction:
+Introduction
 -------------
 
 In this chapter we will explore the concepts of descriptive statistics and data types in statistics.   
@@ -16,23 +16,24 @@ the difference between correlation and causation and explain why correlation doe
 Learning Goals
 ===============
 
-- Know the difference between Statistics and Descriptive Statistical Analysis and be able to distinguish 
-between the two types of Statistics: Descriptive and Inferential. 
-- Compare and contrast central tendency, types of variability such as range, interquartile range, variance 
-and standard deviation, modality, skewness, and kurtosis.
-- Become familiar with basic spreadsheet operations such as:  addressing cells: relative versus absolute, 
-on the same sheet versus across sheets: working with Ranges: ``SUM``, ``AVERAGE``, ``CORRELL``, tricks for 
-copying and pasting down and across, ``VLOOKUP`` (match / index), grouping, ``AVERAGEIF``, ``COUNTIF``, ``IF`` 
-making a Pivot Table, cleaning ``TRIM``, and exploring, ``UNIQUE``.
+- Know the difference between Statistics and Descriptive Statistical Analysis and be able to distinguish between the two types of Statistics: Descriptive and Inferential. 
+
+- Compare and contrast central tendency, types of variability such as range, interquartile range, variance and standard deviation, modality, skewness, and kurtosis.
+
+- Become familiar with basic spreadsheet operations such as:  addressing cells: relative versus absolute, on the same sheet versus across sheets: working with Ranges: ``SUM``, ``AVERAGE``, ``CORRELL``, tricks for copying and pasting down and across, ``VLOOKUP`` (match / index), grouping, ``AVERAGEIF``, ``COUNTIF``, ``IF`` making a Pivot Table, cleaning ``TRIM``, and exploring, ``UNIQUE``.
+
 
 Learning Objectives
 ===================
 
 - Know how to import, organize and visualize data using Google Sheets.
+
 - Extrapolate central tendencies and standard deviation of a given data set.
-- Combine different datasets and use them to extract new data or compare/contrast their data with visuals 
-such as graphs.
+
+- Combine different datasets and use them to extract new data or compare/contrast their data with visuals such as graphs.
+
 - Be able to create and use pivot tables.
+
 
 .. _h257e47683de51231245397924107b3:
 
