@@ -30,6 +30,12 @@ You will find Anaconda Navigator in the anaconda3 folder.
 
 
 .. figure:: Figures/navigator.png
+   :align: center
+   :alt: "Anaconda navigator home screen with JupyterLab, Notebook, Qt Console and Navigation bar"
+
+   Figure 1: "Anaconda Navigator window"
+
+   
 
 
 From the Anaconda Navigator Window, you can Launch JupyterLab. This may take a
@@ -39,6 +45,11 @@ icon under Notebook.
 
 
 .. figure:: Figures/labif.png
+   :align: center
+   :alt: "JupyterLab Launcher Tab opened in Google Chrome web browser with Notebook, Console, and Other sections."
+   
+   Figure 2: "JupyterLab Launcher Tab"  
+  
 
 
 You are now ready to continue on the the Python Review on the next page.
