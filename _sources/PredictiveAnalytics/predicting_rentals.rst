@@ -208,7 +208,7 @@ Compare your graph to this one after you have made it.
     :modaltitle: Predicted Versus Actual Daily Rentals V1
 
     .. image:: Figures/regression_compare_1.png
-      :alt: Linear Regression model with ride_count as the y axis and daynum as the x axis. 
+      :alt: Linear Regression model with ride_count as the y axis and daynum as the x axis.
 
 
 What do you think of the model so far? You are probably a bit disappointed, both
@@ -237,7 +237,7 @@ look at the time series of daily rentals.
 
 
 .. figure:: Figures/year_one_ts.png
-  :alt: Line graph of bike rentals with duration (0 to 6,000) as the y axis and start_date (by months of first year) as the x axis. 
+  :alt: Line graph of bike rentals with duration (0 to 6,000) as the y axis and start_date (by months of first year) as the x axis.
 
 
 The representation of the date we chose is simple, but you know from
@@ -357,7 +357,7 @@ matches this one.
 .. reveal:: modelv25_viz
 
      .. image:: Figures/modelv25_compare.png
-       :alt: Scatter plot with y-axis set as actual (shown in blue) and preds (shown in red), and x-axis as the number of days. 
+       :alt: Scatter plot with y-axis set as actual (shown in blue) and preds (shown in red), and x-axis as the number of days.
 
 
 Version 3.0
@@ -509,7 +509,7 @@ One really common method for transforming the data is to use min-max scaling.
 This will ensure that all of your values are between 0 and 1.
 
 
-Where to go from here?
+Where To Go From Here?
 ----------------------
 
 In the introduction to this textbook, we showed you this diagram. Take a look at

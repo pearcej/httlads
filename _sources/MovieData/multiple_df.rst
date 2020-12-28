@@ -4,7 +4,7 @@
    http://creativecommons.org/licenses/by-sa/4.0/.
 
 
-Dealing with Multiple DataFrames
+Dealing With Multiple DataFrames
 ================================
 
 Forget about budget or runtimes as criteria for selecting a movie, let's take a
@@ -76,7 +76,7 @@ difference between the ``vote_average`` and ``my_vote`` and divide it by
 
 .. fillintheblank:: mov_star_wars_difference
 
-   What's the percentage difference between the popular rating for Star Wars and my vote 
+   What's the percentage difference between the popular rating for Star Wars and my vote
    for it? |blank|
 
    - :-10: Is the correct answer
