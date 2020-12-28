@@ -6,8 +6,8 @@
 
 .. _CSHappinessAddingData:
 
-Case Study 1: Adding More Happiness Data
-========================================
+Adding More Happiness Data
+==========================
 
 Happiness by Region
 -------------------
@@ -132,7 +132,7 @@ mean by dividing our two columns.
      :x: Keep checking
 
 
-Joining Data from Other Sources
+Joining Data From Other Sources
 -------------------------------
 
 So far, we have limited our analysis to the data provided for us in the original

@@ -6,8 +6,8 @@
 
 .. _CSHappinessReport:
 
-Case Study 1: The Happiness Report
-==================================
+The Happiness Report
+====================
 
 Before proceeding, you need to have read the required readings about the data science processing pipeline,
 exploratory **data analysis**, and the other resources on spreadsheets and summary
