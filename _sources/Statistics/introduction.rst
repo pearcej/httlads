@@ -28,7 +28,6 @@ Learning Goals
 - Distinguish between descriptive and inferential statistics.
 - Learn to apply the various measures of central tendency and the measures of variability.
 - Become familiar with several descriptive statistics and data visualization spreadsheet operations.
-- Addressing cells: relative versus absolute, on the same sheet versus across sheets.
 - Use a spreadsheet to explore data.
 
 Learning Objectives
@@ -38,7 +37,7 @@ Learning Objectives
 - Combine different datasets and use them to extract new data.
 - Compare and contrast data from various datasets using visual representations.
 - Learn to create and use spreadsheet pivot tables.
-
+- Addressing cells: relative versus absolute, on the same sheet versus across sheets.
 
 .. _Chapter2ReadingList:
 
@@ -58,15 +57,6 @@ Be sure to read each link below entirely and watch for key references before mov
 * `Data Science behind the Facebook/Cambridge Analytica Scandal <https://towardsdatascience.com/weapons-of-micro-destruction-how-our-likes-hijacked-democracy-c9ab6fcd3d02>`_
 
 * `Why Correlation does not Imply Causation <https://towardsdatascience.com/why-correlation-does-not-imply-causation-5b99790df07e>`_
-
-
-.. _Chapter2TimeRequired:
-
-Time Required
--------------
-
-These readings and exercises could take up to four hours (or more) to complete. But they could take less time depending on how
-quickly you are able to work through the material.
 
 Summary Statistics
 ------------------

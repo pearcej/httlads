@@ -21,8 +21,51 @@ The World Happiness Report is a landmark survey of the state of global
 happiness. The World Happiness Report 2018 ranks 156 countries by their
 happiness levels, and 117 countries by the happiness levels of their immigrants. Many
 factors may contribute to the happiness of a country, and we will use spreadsheets to 
-explore and analyze what factors may be most
-important in determining a country's happiness.
+explore and analyze what factors may be most important in determining a country's happiness.
+
+Business Context
+----------------
+
+If you have taken a Management course, you are familiar with the term Management Control, 
+which refers to a set of practices that have become recognized as essential features 
+of effective management in organizations of all types. If we can think of a country 
+as a large organization in the public sector, then we can think of the management controls 
+of such an organization in simple terms as the organization itself, its policies, and 
+procedures used to help ensure the government programmes achieve their intended results.
+
+The Control Process generally proceeds through four interrelated steps:
+
+1. Establishing standards
+2. Measuring performance
+3. Comparing performance against standards
+4. Determining need for corrective action
+
+A certain country’s top management sets out a business goal to increase the Happiness 
+Index Score of its population by at least 5% by the next year. In order to achieve 
+this result, according to the Control Process, the government of that country will 
+first need to establish control standards that would be consistent with the organization’s 
+goal. Control standards are targets against which future performance will be compared against.
+
+For example, a certain country may want to target a certain minimum level of generosity 
+in its citizens by the next year. From the definitions of the components of the World 
+Happiness Index data, generosity as a control standard is most certainly consistent 
+with the organization’s goal. The entire control process will now look like the following: 
+last year’s measurement of the level of generosity will be compared against the newly 
+measured level of generosity for this year, determining the success rate of the control 
+standard followed by the appropriate need for corrective action.
+
+As Data Scientists, we are primarily interested in the second and third steps of the Control 
+Process. The second step of the Control Process, measuring performance, was done for us 
+by the Sustainable Development Solutions Network and its many partners. All of the 
+organizations involved in this process are recognized as reliable and trustworthy, however, 
+they make a note that “the report was written by a group of independent experts acting 
+in their personal capacities.” This, in turn, brings up a very important idea that 
+achieving valid performance measurement is not straightforward.
+
+Throughout this book, we will be primarily comparing performance against standards or, when 
+standards are not clearly outlined, practicing data manipulation for data analysis using 
+the same techniques.
+
 
 We will start by loading the
 `happiness_2017.csv <../_static/happiness_2017.csv>`_ file into Google Sheets.
